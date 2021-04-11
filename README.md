@@ -1,6 +1,6 @@
-# fd7
+# Magic Sounds App
 
-A new Flutter project.
+![](images/app.png)
 
 ## Getting Started
 
